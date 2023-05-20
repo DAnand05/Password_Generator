@@ -1,8 +1,6 @@
-# csb-x78ez7
+# Password Generator
 
-Password Generator
-
-Deployed link:- https://danand05.github.io/csb-x78ez7/
+Deployed link:- https://danand05.github.io/Password_Generator/
 
 This is a simple password generator that can be used to create strong, secure passwords. It is written in HTML, CSS, and JavaScript and can be used in any web browser.
 
